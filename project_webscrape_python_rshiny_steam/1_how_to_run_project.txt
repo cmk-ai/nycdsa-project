@@ -1,0 +1,3 @@
+1. First open teststeammall.py and find "game_genre_list" uncomment which genre you want to download.
+2. Inside for loop of "game_genre_list" give which page to scrape, start with page=0, if you have any internet problem this come handy as you don't need to start from scratch.
+3. Open dy_It.py and gave which genre you want to scrape, also give line number, start with line=0, if you have any internet problem this come handy as you don't need to start from scratch.
